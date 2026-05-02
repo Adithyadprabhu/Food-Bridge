@@ -44,7 +44,7 @@ Food-Bridge is a platform that connects food donors with receivers to enable the
   &nbsp;
   <img src=".\Images\donar page.png" alt="App Screenshot 2" width="45%" />
   &nbsp;
-  <img src=".\Images\login page.png" alt="App Screenshot 3" width="45%" />
+  <img src=".\Images\login.png" alt="App Screenshot 3" width="45%" />
   &nbsp;
   <img src="\Images\ngo page.png" alt="App Screenshot 4" width="45%" />
 </p>
@@ -70,7 +70,7 @@ Food-Bridge/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Adithyadprabhu/Food-Bridge.git
+git clone https://github.com/Epoch26/SG-108-CodeCrew.git
 cd Food-Bridge
 ```
 
@@ -119,7 +119,3 @@ npm run dev
 * Nagamma Basavaraj Nellogel
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
